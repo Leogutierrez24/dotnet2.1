@@ -1,0 +1,14 @@
+C:\cursos\dotnet-2.1\bin\Debug\net8.0\dotnet-2.1.exe
+C:\cursos\dotnet-2.1\bin\Debug\net8.0\dotnet-2.1.deps.json
+C:\cursos\dotnet-2.1\bin\Debug\net8.0\dotnet-2.1.runtimeconfig.json
+C:\cursos\dotnet-2.1\bin\Debug\net8.0\dotnet-2.1.dll
+C:\cursos\dotnet-2.1\bin\Debug\net8.0\dotnet-2.1.pdb
+C:\cursos\dotnet-2.1\obj\Debug\net8.0\dotnet-2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursos\dotnet-2.1\obj\Debug\net8.0\dotnet-2.1.AssemblyInfoInputs.cache
+C:\cursos\dotnet-2.1\obj\Debug\net8.0\dotnet-2.1.AssemblyInfo.cs
+C:\cursos\dotnet-2.1\obj\Debug\net8.0\dotnet-2.1.csproj.CoreCompileInputs.cache
+C:\cursos\dotnet-2.1\obj\Debug\net8.0\dotnet-2.1.dll
+C:\cursos\dotnet-2.1\obj\Debug\net8.0\refint\dotnet-2.1.dll
+C:\cursos\dotnet-2.1\obj\Debug\net8.0\dotnet-2.1.pdb
+C:\cursos\dotnet-2.1\obj\Debug\net8.0\dotnet-2.1.genruntimeconfig.cache
+C:\cursos\dotnet-2.1\obj\Debug\net8.0\ref\dotnet-2.1.dll
