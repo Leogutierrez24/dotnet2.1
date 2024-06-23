@@ -1,3 +1,5 @@
+using Microsoft.Win32.SafeHandles;
+
 public class Escuela
 {
     private string nombre;
@@ -42,8 +44,13 @@ public class Escuela
         set { tipo = value; }
     }
 
+    private Curso[] cursos = [];
+    public Curso[] Cursos
+    {
+        get { return cursos; }
+        set { cursos = value; }
+    }
     
-
     public Escuela(string nombre, int año, TipoEscuela tipo, string pais = "", string ciudad = "")
     {
         this.nombre = nombre;

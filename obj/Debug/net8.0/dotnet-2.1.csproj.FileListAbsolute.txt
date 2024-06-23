@@ -12,3 +12,4 @@ C:\cursos\dotnet-2.1\obj\Debug\net8.0\refint\dotnet-2.1.dll
 C:\cursos\dotnet-2.1\obj\Debug\net8.0\dotnet-2.1.pdb
 C:\cursos\dotnet-2.1\obj\Debug\net8.0\dotnet-2.1.genruntimeconfig.cache
 C:\cursos\dotnet-2.1\obj\Debug\net8.0\ref\dotnet-2.1.dll
+C:\cursos\dotnet-2.1\obj\Debug\net8.0\dotnet-2.1.sourcelink.json
